@@ -1,9 +1,9 @@
 {
-  "name": "@xenterprises/prettier-config",
+  "name": "@xenterprises/prettier",
   "version": "1.0.0",
   "description": "X Enterprises Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:timmushen/prettier-config.git",
+  "repository": "git@github.com:timmushen/prettier.git",
   "author": "Tim Mushen <t@x.enterprises>",
   "license": "MIT"
 }
